@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Converting a bootstrap template to a react app
+
+Will update to-do later, the read-me under this is a default one.
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
