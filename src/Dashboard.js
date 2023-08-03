@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import "./Dashboard.css";
+import FoodWasteTracker from "./FoodWasteTracker";
 
 function Dashboard() {
   const [style, setStyle] = useState(
@@ -575,6 +576,8 @@ function Dashboard() {
                     Generate Report
                   </a>
                 </div>
+
+                <FoodWasteTracker />
 
                 {/* <!-- Content Row --> */}
                 <div className="row">
